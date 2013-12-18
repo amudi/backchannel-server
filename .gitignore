@@ -1,3 +1,4 @@
+# Haskell
 dist
 cabal-dev
 *.o
@@ -5,3 +6,7 @@ cabal-dev
 *.chi
 *.chs.h
 .virthualenv
+site_key.txt
+
+# Logs
+*.log
